@@ -1,0 +1,4 @@
+train: dataset/animal_test_train/train
+val: dataset/animal_test_train/test
+nc: 3  # Number of classes
+names: ['Monkey', 'Cat','Dog']
